@@ -1,4 +1,3 @@
-# Artbook8
-# Artbook8
-# Artbook8
+# THE TASK IS TO CLONE THIS AND START EDITING
+
 # GlobalPort
